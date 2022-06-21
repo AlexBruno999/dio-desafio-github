@@ -1,0 +1,5 @@
+cd: é usado para se mover dentro do terminal.
+dir: é usado para ver quais diretórios existem dentro daquela pasta.
+mkdir: usado para criar um novo diretório.
+del: usado para apagar um ou mais arquivos.
+rmdir: usado para apagar um diretório.

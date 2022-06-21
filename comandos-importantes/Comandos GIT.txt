@@ -1,0 +1,3 @@
+git init: usado para criar um nóvo repositório.
+git add: usado para adicionar alterações da sua branch no repositório remoto.
+git commit: usado para guardar o estado do seu repositório naquele momento.

@@ -1,0 +1,3 @@
+git add: usado para adicionar alterações da sua branch no repositório remoto.
+git add * : adiciona todas alterações feitas.
+git add . : coloca todos os arquivos no index/stage.
